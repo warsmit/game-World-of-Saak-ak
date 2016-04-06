@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\Game.o
+./release\Player.o
+./release\Entity.o
+./release\World.o
+./release\TextureManager.o
+./release\Animation.o
+./release\AnimationManager.o
+./release\Bullet.o
+./release\Meteor.o
+./release\FloatCircle.o
+./release\Stars.o
+);
